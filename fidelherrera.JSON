@@ -1,0 +1,31 @@
+{
+    "name" : "Fidel Herrera",
+    "age" : "22",
+    "state" : "Illinois",
+    "city" : "Lockport",
+    "major" : "Computer Engineering",
+    "university" : "Lewis University",
+
+    "favoriteHobbies" : [{
+        "firstHobby" : "Volleyball",
+        "secondHobby" : "Guitar",
+        "thirdHobby" : "Video games"
+    }],
+
+    "favoriteComedians" : [{
+        "firstComedian" : "Norm Macdonald",
+        "secondComedian" : "Conan O'Brien",
+        "thirdComedian" : "Dave Chappelle"
+    }],
+    
+    "favoriteGames" : [{
+        "firstGame" : "Super Smash Bros. Melee",
+        "secondGame" : "Xenoblade Chronicles",
+        "thirdGame" : "Metal Gear Solid 3: Snake Eater"
+    }],
+
+    "programmingLanguages" : [{
+        "firstProgrammingLanguage" : "Java",
+        "secondProgrammingLanguage" : "C++"
+    }]
+}
