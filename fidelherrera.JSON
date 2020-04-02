@@ -5,6 +5,7 @@
     "city" : "Lockport",
     "major" : "Computer Engineering",
     "university" : "Lewis University",
+    "seatLocation" : "47",
 
     "favoriteHobbies" : [{
         "firstHobby" : "Volleyball",
