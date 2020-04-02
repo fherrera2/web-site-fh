@@ -1,0 +1,16 @@
+{
+    "name" : "Richard Rider",
+    "preferredName" : "Nova",
+    "employer" : "Nova Corps",
+    "title" : "Nova Prime",
+    "email" : "kidnova@lewisu.edu",
+    "favoritePal" : "Cosmo the Spacedog",
+    "seatLocation" : "",
+
+    "superpowers" : [{
+        "firstPower" : "Flight",
+        "secondPower" : "Super strength",
+        "thirdPower" : "Energy projection",
+        "fourthPower" : "Telekinesis"
+    }]
+}
