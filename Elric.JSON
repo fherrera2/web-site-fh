@@ -1,17 +1,11 @@
 {
-    "name" : "Edward Elric",
-    "alias" : "Fullmetal Alchemist",
-    "employer" : "Amestrian State Military",
-    "occupation" : "State Alchemist",
-    "rank" : "Major",
-    "email" : "dontcallmelittle@lewisu.edu",
-    "hometown": "Resembool",
-    "seatLocation" : "",
-
-    "family" : [{
-        "father" : "Von Hohenheim",
-        "mother" : "Trisha Elric",
-        "brother" : "Alphonse Elric",
-        "wife" : "Winry Rockbell"
-    }]
+    "firstName" : "Edward",
+    "lastName" : "Elric",
+    "preferredName" : "Ed",
+    "email" : "fullmetal@asm.edu",
+    "phoneNumber" : "708-NOT-TINY",
+    "city" : "Resembool",
+    "state" : "Amestria",
+    "favoriteHobby" : "Alchemy",
+    "seatLocation" : ""
 }

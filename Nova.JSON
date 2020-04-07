@@ -1,16 +1,11 @@
 {
-    "name" : "Richard Rider",
-    "alias" : "Nova",
-    "employer" : "Nova Corps",
-    "title" : "Nova Prime",
-    "email" : "kidnova@lewisu.edu",
-    "favoritePal" : "Cosmo the Spacedog",
-    "seatLocation" : "",
-
-    "superpowers" : [{
-        "firstPower" : "Flight",
-        "secondPower" : "Super strength",
-        "thirdPower" : "Energy projection",
-        "fourthPower" : "Telekinesis"
-    }]
+    "firstName" : "Richard",
+    "lastName" : "Rider",
+    "preferredName" : "Nova",
+    "email" : "novaprime@novacorps.gov",
+    "phoneNumber" : "708-BLU-BLAZ",
+    "city" : "Hempstead",
+    "state" : "New York",
+    "favoriteHobby" : "Fighting villains",
+    "seatLocation" : ""
 }

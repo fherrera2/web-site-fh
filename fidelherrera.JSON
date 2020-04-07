@@ -1,32 +1,11 @@
 {
-    "name" : "Fidel Herrera",
-    "age" : "22",
-    "state" : "Illinois",
+    "firstName" : "Fidel",
+    "lastName" : "Herrera",
+    "preferredName" : "Fidel",
+    "email" : "fidelherrera@lewisu.edu",
+    "phoneNumber" : "708-###-####",
     "city" : "Lockport",
-    "major" : "Computer Engineering",
-    "university" : "Lewis University",
-    "seatLocation" : "47",
-
-    "favoriteHobbies" : [{
-        "firstHobby" : "Volleyball",
-        "secondHobby" : "Guitar",
-        "thirdHobby" : "Video games"
-    }],
-
-    "favoriteComedians" : [{
-        "firstComedian" : "Norm Macdonald",
-        "secondComedian" : "Conan O'Brien",
-        "thirdComedian" : "Dave Chappelle"
-    }],
-    
-    "favoriteGames" : [{
-        "firstGame" : "Super Smash Bros. Melee",
-        "secondGame" : "Xenoblade Chronicles",
-        "thirdGame" : "Metal Gear Solid 3: Snake Eater"
-    }],
-
-    "programmingLanguages" : [{
-        "firstProgrammingLanguage" : "Java",
-        "secondProgrammingLanguage" : "C++"
-    }]
+    "state" : "IL",
+    "favoriteHobby" : "Volleyball",
+    "seatLocation" : "47"
 }
